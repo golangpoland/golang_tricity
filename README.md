@@ -12,6 +12,8 @@ Talks:
 1. [Jak zacząć w Go?](./2025/2025_9_Meetup_Tricity/jak_zaczac_w_go.pdf) - Mateusz Reszka ([GitHub](https://github.com/smoorg/invoice-maker))
 2. [Go 1.24 updates](./2025/2025_9_Meetup_Tricity/Go_1.24_updates.pdf) - Patryk Orwat
 
+Event: [#9](https://mobilizon.pl/events/863942d7-e032-4c72-a7ab-31ec38413db4)
+
 ## Golang Trójmiasto #8 (January 14th, 2025)
 
 Talks:
