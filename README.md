@@ -4,6 +4,13 @@ You will find us at https://mobilizon.pl/@golang_trojmiasto ([meetup as a backup
 
 Want to be a speaker? Have an idea for building our community? Let us know on [Mobilizon](https://mobilizon.pl/@golang_trojmiasto) or [Meetup](https://www.meetup.com/golang-user-group-trojmiasto/).
 
+## Golang Trójmiasto #10 (May 29th, 2025)
+
+Talks:
+
+1. [Terraform and K8S SDK - how to make them work together?](./2025/2025_10_Meetup_Tricity/golang-may-25.pdf) - Patryk Orwat ([GitHub](https://github.com/patrykorwat/infraconv))
+
+Event: [#10](https://mobilizon.pl/events/5b726558-0d1b-4166-ae7c-a4e73bd9833e)
 
 ## Golang Trójmiasto #9 (February 28th, 2025)
 
