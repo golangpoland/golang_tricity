@@ -4,6 +4,14 @@ You will find us at https://mobilizon.pl/@golang_trojmiasto ([meetup as a backup
 
 Want to be a speaker? Have an idea for building our community? Let us know on [Mobilizon](https://mobilizon.pl/@golang_trojmiasto) or [Meetup](https://www.meetup.com/golang-user-group-trojmiasto/).
 
+## Golang Trójmiasto #11 (October 16th, 2025)
+
+Talks:
+
+1. [Bazel in a polylang repo](./2025/2025_11_Meetup_Tricity/bazel-in-polylang-repo.pdf) - Krzysztof Czapla ([GitHub](https://github.com/kczapla/polylang))
+
+Event: [#11](https://www.meetup.com/golang-user-group-trojmiasto/events/308349656/)
+
 ## Golang Trójmiasto #10 (May 29th, 2025)
 
 Talks:
